@@ -1,6 +1,6 @@
 {
-    "author": {
-        "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+    "authors": {
+        "name": "Jakov <jakov.bradvica@gmail.com>"
     },
     "name": "angular-bootstrap",
     "keywords": [
